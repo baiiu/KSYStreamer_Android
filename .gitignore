@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/android
 
@@ -41,3 +42,22 @@ captures/
 
 ### Android Patch ###
 gen-external-apklibs
+=======
+.gradle
+*/build/*
+.DS_Store
+*/.DS_Store
+.idea
+*/.idea/*
+/build
+*.iml
+local.properties
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+build
+/captures
+.externalNativeBuild
+/.idea/modules.xml
+.cxx
+>>>>>>> test
